@@ -13,5 +13,5 @@ I am a passionate **Data Scientist** and **Data Analyst** dedicated to transform
 - **Tools:** Jupyter Notebooks, Power BI, Excel.
 
 ### 📫 Connect with me
-- 📧 **Email:** RahafAlowais@gmail.com
+- 📧 **Email:** RahafAlowais3@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rahaf-alowais-8b5728296
