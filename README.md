@@ -9,7 +9,7 @@ I am a passionate **Data Scientist** and **Data Analyst** dedicated to transform
 
 
 ### 🛠 Tech Stack
-- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL.
+- **Languages:** Python, SQL.
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn.
 - **Tools:** Jupyter Notebooks, Power BI, Excel.
 
